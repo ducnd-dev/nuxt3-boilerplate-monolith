@@ -1,0 +1,8 @@
+node_modules
+.nuxt
+dist
+.env
+.vercel
+output.log
+.DS_Store
+*.local
