@@ -6,7 +6,7 @@ A modern, production-ready Nuxt 3 boilerplate with TypeScript, Tailwind CSS v4, 
 
 - 🚀 **Nuxt 3** - The latest version with SSR enabled
 - 📝 **TypeScript** - Strict type checking and excellent DX
-- 🎨 **Tailwind CSS v4** - Latest alpha with custom design system
+- 🎨 **Tailwind CSS v3**
 - 🏪 **Pinia** - Modern state management for Vue
 - 🎯 **ESLint + Prettier** - Code quality and formatting
 - 🌙 **Dark Mode** - Built-in theme switching
